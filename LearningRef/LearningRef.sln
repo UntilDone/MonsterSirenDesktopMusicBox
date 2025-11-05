@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningRef", "LearningRef.csproj", "{7AEB1E65-CCEB-4546-A055-21497A793FD0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{C1D928C0-4DFE-4DDF-AE68-513F078FB812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeViewers", "..\YoutubeViewer\YoutubeViewers.csproj", "{7612470C-11D5-4722-9B80-7224738A21E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7AEB1E65-CCEB-4546-A055-21497A793FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7AEB1E65-CCEB-4546-A055-21497A793FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7AEB1E65-CCEB-4546-A055-21497A793FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7AEB1E65-CCEB-4546-A055-21497A793FD0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C1D928C0-4DFE-4DDF-AE68-513F078FB812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C1D928C0-4DFE-4DDF-AE68-513F078FB812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1D928C0-4DFE-4DDF-AE68-513F078FB812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1D928C0-4DFE-4DDF-AE68-513F078FB812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7612470C-11D5-4722-9B80-7224738A21E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7612470C-11D5-4722-9B80-7224738A21E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7612470C-11D5-4722-9B80-7224738A21E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7612470C-11D5-4722-9B80-7224738A21E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
